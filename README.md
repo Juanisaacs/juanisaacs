@@ -9,10 +9,10 @@
  
 ---
 
-### &#127757 About Me :
+### 	&#127757; About Me :
 
-- &#x1f4bb Passionate about programming with extensive knowledge in: ** JavaScript framework" Angular, React and Vue.js", nodeJs and SQL, Python3**.
+- &#x1f4bb; Passionate about programming with extensive knowledge in: ** JavaScript framework" Angular, React and Vue.js", nodeJs and SQL, Python3**.
 
-- &#127793 i'm currently leraning **Python3, Blockchain, Java, IA**.
+- &#127793; i'm currently leraning **Python3, Blockchain, Java, IA**.
 
-- &#x1f4bb Passionate about cybersecurity and ethical hacking with extensive knowledge in networks, Linux and Windows OS, OSINT and pentesting tools.
+- &#x1f4bb; Passionate about cybersecurity and ethical hacking with extensive knowledge in networks, Linux and Windows OS, OSINT and pentesting tools.
