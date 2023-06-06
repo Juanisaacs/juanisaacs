@@ -30,4 +30,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" width="40" height="40">
    </div>
+---
 
+### &#128202; My Status:
+[![github Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
