@@ -1,9 +1,9 @@
 <div id=" header" align="center">
-     <div id=" header" align="center" style="background-color:#0000ff">
+     <div id=" header" align="center" style="color:#FF0000" >
           <img src="https://github.com/Juanisaacs/juanisaacs/assets/95291896/2cfd407a-903d-49b3-b051-ece80e6b730c" width="200">
      </div>
          </div>
-          <h1 align="center" style="color:#0000ff">HI , i'm Juan Isaac &#128521 </h1>
+          <h1 align="center" >HI , i'm Juan Isaac &#128521 </h1>
          <h3 align="center">  &#128154A passionate web fullstack and ethical hacking  &#128154</h3>
  </div>
  
@@ -36,5 +36,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=juanisaacs)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanisaacs)](https://github.com/juanisaacs/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanisaacs&hide_progress=true)](https://github.com/juanisaacs/github-readme-stats)
