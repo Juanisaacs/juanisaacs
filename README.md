@@ -3,7 +3,7 @@
           <img src="https://github.com/Juanisaacs/juanisaacs/assets/95291896/2cfd407a-903d-49b3-b051-ece80e6b730c" width="200">
      </div>
          </div>
-          <h1 align="center" background-color="#0000ff">HI , i'm Juan Isaac &#128521 </h1>
+          <h1 align="center" style="#0000ff">HI , i'm Juan Isaac &#128521 </h1>
          <h3 align="center">  &#128154A passionate web fullstack and ethical hacking  &#128154</h3>
  </div>
  
