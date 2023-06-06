@@ -33,4 +33,4 @@
 ---
 
 ### &#128202; My Status:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juanisaacs&theme=dark&hide_border=FALSO&locale=es&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
