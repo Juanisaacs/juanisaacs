@@ -6,8 +6,10 @@
           <h1 align="center">HI , i'm Juan Isaac &#128521 </h1>
          <h3 align="center">  &#128154A passionate web fullstack and ethical hacking  &#128154</h3>
  </div>
+ 
 ---
-###  &#127757 About Me :
+
+### &#127757 About Me :
 
 - &#x1f4bb Passionate about programming with extensive knowledge in: ** JavaScript framework" Angular, React and Vue.js", nodeJs and SQL, Python3**.
 
