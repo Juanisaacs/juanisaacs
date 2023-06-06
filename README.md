@@ -6,3 +6,9 @@
           <h1 align="center">HI , i'm Juan Isaac &#128521 </h1>
          <h3 align="center">  &#128154A passionate web fullstack and ethical hacking  &#128154</h3>
  </div>
+---
+###  &#127757 About Me :
+
+&#128187 Passionate about programming with extensive knowledge in: ** JavaScript framework" Angular, React and Vue.js", nodeJs and SQL, Python3**
+&#127793 i'm currently leraning **Python3, Blockchain, Java, IA**
+&#128187 Passionate about cybersecurity and ethical hacking with extensive knowledge in networks, Linux and Windows OS, OSINT and pentesting tools.
