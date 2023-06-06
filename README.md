@@ -1,6 +1,6 @@
 <div id=" header" align="center">
      <div id=" header" align="center">
-      <div style="padding-top:40.766%;position:relative;"><iframe src="https://gifer.com/embed/5OcF" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com"></a></p>width= "200"
+        <img src= "https://www.hubpng.com/files/preview/715x587/png-transparent-saint-seiya-libra-cloth-png-saint-seiya-11679443123pbuv2zag2d69eopjcyf6hztzcqgfufpnkkkg10f5noha1vjffdimri3rydgmgaddzknr8osllz7fbyzppyqjr.png" width="200">
      </div>
          </div>
           <h1 align="center">HI , i'm Juan Isaac</h1>
