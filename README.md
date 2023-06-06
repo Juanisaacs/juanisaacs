@@ -1,6 +1,5 @@
 <div id=" header" align="center">
-     <div id=" header" align="center">
-        <img src= "https://www.hubpng.com/files/preview/715x587/png-transparent-saint-seiya-libra-cloth-png-saint-seiya-11679443123pbuv2zag2d69eopjcyf6hztzcqgfufpnkkkg10f5noha1vjffdimri3rydgmgaddzknr8osllz7fbyzppyqjr.png" width="200">
+     <div id=" header" align="center">![VMC05317](https://github.com/Juanisaacs/juanisaacs/assets/95291896/2cfd407a-903d-49b3-b051-ece80e6b730c)
      </div>
          </div>
           <h1 align="center">HI , i'm Juan Isaac &#128521 </h1>
