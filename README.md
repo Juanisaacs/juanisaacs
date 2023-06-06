@@ -36,3 +36,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=juanisaacs)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanisaacs)](https://github.com/juanisaacs/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanisaacs&hide_progress=true)](https://github.com/juanisaacs/github-readme-stats)
